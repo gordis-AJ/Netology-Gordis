@@ -6,7 +6,7 @@
 
 ### Вопрос 3. Расшифруйте аббревиатуры DevOps и DevSecOps.
 Ответ:
-1. evOps - development, operations.
+1. DevOps - development, operations.
 2. DevSecOps - development, security, operations.
 
 ### Вопрос 4. Зачем проводится код-ревью?
