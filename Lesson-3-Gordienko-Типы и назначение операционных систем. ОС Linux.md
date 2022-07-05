@@ -17,6 +17,13 @@
 #### Ответ.
 - Оконный менеджер - O/S Services
 - файловый менеджер, веб-браузер, текстовый редактор, калькулятор - User Applications.
+
+##### Дополнение.
+- Оконный менеджер - Metacity, kwin, LXDE, i3.
+- Файловый менеджер -  Midnight Commander, Dolphin, Nautilus
+- Веб-браузер - Google Chrome, Firefox
+- Текстовый редактор - LibreOffice, WPS Office
+
 ---
 ## Задание 3.
 Назовите по два DEB и RPM дистрибутива.
